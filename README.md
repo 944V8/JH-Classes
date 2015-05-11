@@ -1,4 +1,4 @@
 # JH-Classes
 ## secondary heading
-### This si a tertiary Heading
+### This is a tertiary Heading
 
